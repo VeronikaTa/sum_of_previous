@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.arrays;
+package com.epam.training.student_veronika_tarasova.sum_of_previous.src.main.java.com.epam.rd.autotasks.arrays;
 
 import java.util.Arrays;
 

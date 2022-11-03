@@ -1,6 +1,6 @@
-package com.epam.rd.autotasks.arrays;
+package com.epam.training.student_veronika_tarasova.sum_of_previous.src.test.java.com.epam.rd.autotasks.arrays;
 
-import com.epam.rd.autotasks.arrays.SumOfPrevious;
+import com.epam.training.student_veronika_tarasova.sum_of_previous.src.main.java.com.epam.rd.autotasks.arrays.SumOfPrevious;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
